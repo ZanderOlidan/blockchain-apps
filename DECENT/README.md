@@ -2,7 +2,6 @@
 
 Majority of instructions taken from [DECENTNetwork's GitHub](https://github.com/DECENTfoundation/DECENT-Network)
 
-# Building for a private chain
 
 **** WIP ****
 
@@ -10,9 +9,20 @@ Run `install.sh` and it should run all the commands and build. Note that this ma
 
 **** WIP ****
 
-# Building for DECENT Network (not private net)
+# Building for DECENT Private chain
 
 ## Installation Prerequisites
+
+### For quick installation
+
+** WIP **
+Run `prereq.sh` to install prerequisites and set environment variables.
+
+    ./prereq.sh
+
+** WIP **
+
+### Building prerequisites manually
 
 Using Ubuntu 16.04 LTS
 
@@ -24,7 +34,7 @@ Set \$CC, \$CXX and add \$CMAKE_ROOT to PATH variable. Check versions of gcc and
     $ export CC=gcc-5
     $ export GXX=g++-5
 
-The version of CMAKE in DECENT Network instruction is higher than installed CMAKE version on Ubuntu 16.04. This may or may not have any effect, but installing it nonetheless. `cmake version 3.5.1` to `cmake version 3.7.2`
+The version of CMAKE in DECENT Network instruction is higher than installed CMAKE version on Ubuntu 16.04. This _may not_ have any effect, but installing it nonetheless. `cmake version 3.5.1` to `cmake version 3.7.2`
 
     # Download and build CMake 3.7.2
     $ mkdir -p ~/dev/DECENTfoundation/DECENT-Network-third-party
@@ -41,6 +51,8 @@ The version of CMAKE in DECENT Network instruction is higher than installed CMAK
     $ cd ..
     $ rm -rf cmake-3.7.2 cmake-3.7.2.tar.gz
     $ export PATH=$CMAKE_ROOT/bin:$PATH
+
+Boost installation. The boost version that comes with Ubuntu 16.04 is not supported (1.55.0). Decent required 1.60.0
 
     # Download and build Boost 1.60.0
     $ mkdir -p ~/dev/DECENTfoundation/DECENT-Network-third-party
@@ -62,7 +74,7 @@ Errors were encountered because of shell directory variables. Check current vari
 
 ## Source, Build and Install Decent
 
-The prerequisites must be installed in order for these to work. Again, these instructions are directly taken from DECENT-Network repo.
+The prerequisites must be installed in order for these to work. Again, these instructions are directly taken from DECENT-Network repo with few changes regarding to private net.
 
     # Clone the repo.
     $ mkdir -p ~/dev/DECENTfoundation
@@ -74,7 +86,7 @@ The prerequisites must be installed in order for these to work. Again, these ins
     # Build and install Decent.
     $ mkdir -p ~/dev/DECENTfoundation/DECENT-Network-build
     $ cd ~/dev/DECENTfoundation/DECENT-Network-build
-    $ cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug ~/dev/DECENTfoundation/DECENT-Network
+    $ cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug -DGRAPHENE_EGENESIS_JSON="$(realpath ../DECENT-Network/genesis/genesis.json)"../DECENT-Network 
     $ cmake --build . --target all -- -j -l 3.0
     $ cmake --build . --target install
 
@@ -117,7 +129,6 @@ Register at [DecentGo](www.decentgo.com). Generate the private key from Security
 ## Running as GUI
 
 Run the compiled program from wherever the network was built. (Example: ~/dev/DECENTfoundation/DECENT-Network-build) and `cd` to `DECENT-Network-build/artifacts/prefix/bin`. There should be 3 programs there: `decentd` - daemon for decent, `cli_wallet` - command line version of wallet, and `DECENT`, the GUI version. To run the GUI app, execute `./DECENT`
-
 
 #TODO:
 
