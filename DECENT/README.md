@@ -130,7 +130,7 @@ Register at [DecentGo](www.decentgo.com). Generate the private key from Security
 
 Run the compiled program from wherever the network was built. (Example: ~/dev/DECENTfoundation/DECENT-Network-build) and `cd` to `DECENT-Network-build/artifacts/prefix/bin`. There should be 3 programs there: `decentd` - daemon for decent, `cli_wallet` - command line version of wallet, and `DECENT`, the GUI version. To run the GUI app, execute `./DECENT`
 
-#TODO:
+# TODO:
 
 - Finish this documentation
 - Create Shell Script file for easy install
