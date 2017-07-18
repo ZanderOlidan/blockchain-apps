@@ -183,217 +183,217 @@
     "max_predicate_opcode": 1,
     "max_authority_depth": 2,
     "extensions": []
-  },
+  },DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc
   "initial_accounts": [{
       "name": "init0",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init1",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init2",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init3",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init4",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init5",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init6",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init7",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init8",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init9",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "name": "init10",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
-      "name": "zander",
+      "name": "decent",
       "owner_threshold": "2",
       "active_threshold": "2",
-      "owner_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS",
-      "active_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
+      "active_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     }
   ],
   "initial_assets": [{
      "symbol": "USD",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "US dollar",
      "precision": 4
     },{
      "symbol": "EUR",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Euro",
      "precision": 4
     },{
      "symbol": "JPY",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Japanese yen",
      "precision": 4
     },{
      "symbol": "BGN",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Bulgarian lev",
      "precision": 4
     },{
      "symbol": "CZK",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Czech koruna",
      "precision": 4
     },{
      "symbol": "DKK",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Danish krone",
      "precision": 4
     },{
      "symbol": "GBP",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Pound sterling",
      "precision": 4
     },{
      "symbol": "HUF",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Hungarian forint",
      "precision": 4
     },{
      "symbol": "PLN",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Polish zloty",
      "precision": 4
     },{
      "symbol": "RON",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Romanian leu",
      "precision": 4
     },{
      "symbol": "SEK",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Swedish krona",
      "precision": 4
     },{
      "symbol": "CHF",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Swiss franc",
      "precision": 4
     },{
      "symbol": "NOK",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Norwegian krone",
      "precision": 4
     },{
      "symbol": "HRK",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Croatian kuna",
      "precision": 4
     },{
      "symbol": "RUB",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Russian rouble",
      "precision": 4
     },{
      "symbol": "TRY",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Turkish lira",
      "precision": 4
     },{
      "symbol": "AUD",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Australian dollar",
      "precision": 4
     },{
      "symbol": "BRL",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Brazilian real",
      "precision": 4
     },{
      "symbol": "CAD",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Canadian dollar",
      "precision": 4
     },{
      "symbol": "CNY",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Chinese yuan renminbi",
      "precision": 4
     },{
      "symbol": "HKD",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Hong Kong dollar",
      "precision": 4
     },{
      "symbol": "IDR",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Indonesian rupiah",
      "precision": 4
     },{
      "symbol": "ILS",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Israeli shekel",
      "precision": 4
     },{
      "symbol": "INR",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Indian rupee",
      "precision": 4
     },{
      "symbol": "KRW",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "South Korean won",
      "precision": 4
     },{
      "symbol": "MXN",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Mexican peso",
      "precision": 4
     },{
      "symbol": "MYR",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Malaysian ringgit",
      "precision": 4
     },{
      "symbol": "NZD",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "New Zealand dollar",
      "precision": 4
     },{
      "symbol": "PHP",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Philippine peso",
      "precision": 4
     },{
      "symbol": "SGD",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Singapore dollar",
      "precision": 4
     },{
      "symbol": "THB",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "Thai baht",
      "precision": 4
     },{
      "symbol": "ZAR",
-     "issuer_name": "zander",
+     "issuer_name": "decent",
      "description": "South African rand",
      "precision": 4
     }
@@ -401,43 +401,43 @@
   "initial_active_miners": 11,
   "initial_miner_candidates": [{
       "owner_name": "init0",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init1",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init2",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init3",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init4",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init5",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init6",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init7",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init8",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init9",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     },{
       "owner_name": "init10",
-      "block_signing_key": "ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS"
+      "block_signing_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc"
     }
   ],
   "initial_chain_id": "d6f4e6a9cf5040a2c60127ebee0cd744bfcafeb91a732276aa154fedc16ca56b",
   "initial_balances": [{
-      "owner": "zander",
-      "asset_symbol": "ZDC",
+      "owner": "decent",
+      "asset_symbol": "DCT",
       "amount": "5130608937456900"
     }
   ],
