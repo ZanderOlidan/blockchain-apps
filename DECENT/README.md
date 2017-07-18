@@ -133,9 +133,11 @@ Run the compiled program from wherever the network was built. (Example: ~/dev/DE
 # TODO:
 
 - Finish this documentation
+    - Merge `testnetInstall.md` to this `README.md` file
 - Create Shell Script file for easy install
     - Install SH
     - Prerequisite SH
     - Boost install check before Decent Install
     - Decent Private Chain setup (including dynamic generation of keys)
         - Key Gen output to file, then to Genesis file, config file
+
