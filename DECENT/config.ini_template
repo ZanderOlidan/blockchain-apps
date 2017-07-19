@@ -44,7 +44,7 @@ required-participation = false
 miner-id = "1.4.5"
 
 # Tuple of [PublicKey, WIF private key] (may specify multiple times)
-private-key = ["ZDC6LubsstiVeeNrx4skKdQyj7EBtdnkuski2mUQ2LdCLjHcy6RXS","5KDo5ebVY4BnBxAGs4BXn7rDjkCvxG13mDBsr2zQwDcBMCMCeTW"]
+private-key = ["pubkey","privkey"]
 
 # Account ID to track history for (may specify multiple times)
 # track-account = 
