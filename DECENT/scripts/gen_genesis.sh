@@ -1,14 +1,20 @@
 #!/bin/bash
 
-genDir="generated"
+genDir="$(pwd)/generated"
 keysFile="$genDir/account_keys.txt"
 genesis="genesis.json"
-
 hashedTime=`date +%s | sha256sum`
+
+# Check if directory exists
+if [ ! -d "$genDir" ]; then
+    mkdir -p "$genDir"
+fi
+
 # Generate a new account and transfer over to account_keys.txt
-if [ ! -f $keysFile ]; then
+if [ ! -e $keysFile ]; then
     ./keys_generator > $keysFile
 fi
+
 
 # Extract the keys respectively to their own variables
 PUB_KEY=`grep -oP "Public key:\s+\K\w+" $keysFile`

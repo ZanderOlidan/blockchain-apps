@@ -1,16 +1,17 @@
 #!/bin/bash
 
-genDir="generated"
+genDir="$(pwd)/generated"
 keysFile="$genDir/account_keys.txt"
 
 hashedTime=`date +%s | sha256sum`
-# Generate a new account and transfer over to account_keys.txt
-if [ ! -f $keysFile ]; then
-    ./keys_generator > $keysFile
-fi
 # Check if directory exists
 if [ ! -d "$genDir" ]; then
     mkdir -p "$genDir"
+fi
+
+# Generate a new account and transfer over to account_keys.txt
+if [ ! -f $keysFile ]; then
+    ./keys_generator > $keysFile
 fi
 
 # Generate a new account and transfer over to account_keys.txt
