@@ -183,7 +183,7 @@
     "max_predicate_opcode": 1,
     "max_authority_depth": 2,
     "extensions": []
-  },DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc
+  },
   "initial_accounts": [{
       "name": "init0",
       "owner_key": "DCT6pJnMz2GbJ5ZKE4Gf5KWuPHXSwZbVwrDLBV64BJg9ykEwdRUGc",
