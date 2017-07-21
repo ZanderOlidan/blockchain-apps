@@ -3,7 +3,8 @@
 genDir="$(pwd)/generated"
 keysFile="$genDir/account_keys.txt"
 genesis="genesis.json"
-hashedTime=`date +%s | sha256sum`
+initialTime=`date --date 'now + 30 minutes' +%FT%T`
+hashedTime=`echo $initialTime | sha256sum | cut -d ' ' -f 1`
 
 # Check if directory exists
 if [ ! -d "$genDir" ]; then
@@ -24,6 +25,7 @@ echo "Keys extracted"
 # Copy the template to generated folder at be edited
 cp templates/genesis.json_template $genDir/$genesis
 
+sed -i -e "s/__initialtimestamp__/$initialTime/g" "$genDir/$genesis"
 sed -i -e "s/__pubkey__/$PUB_KEY/g" "$genDir/$genesis"
 sed -i -e "s/__chainid__/$hashedTime/g" "$genDir/$genesis"
 

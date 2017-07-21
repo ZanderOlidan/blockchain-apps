@@ -1,5 +1,5 @@
 {
-  "initial_timestamp": "2017-06-30T10:00:15",
+  "initial_timestamp": "__initialtimestamp__",
   "max_core_supply": "7319777577456900",
   "initial_parameters": {
     "current_fees": {
