@@ -1,15 +1,30 @@
 # DECENT Network Build Steps
 
+# Automatically set up everything
+
 Majority of instructions taken from [DECENTNetwork's GitHub](https://github.com/DECENTfoundation/DECENT-Network)
 
+Running the command below
 
-**** WIP ****
+    ./install install
 
-Run `install.sh` and it should run all the commands and build. Note that this may take some time. (~30 mins to 1 hour).
+should run all the commands and build. Note that this may take some time. (~30 mins to 1 hour).
 
-**** WIP ****
+If all runs well, execute 
+    
+    ./install.sh run
 
-# Building for DECENT Private chain
+It should show a welcome text signifying that you've made a new chain.
+
+__YOU MUST HAVE Ubuntu 16.04 FOR THIS TO WORK__
+
+# Manually setting things up
+
+*To run individual scripts, run those within the `scripts` folder*
+
+## Building for DECENT Private chain
+
+If you want to manually install and not execute the above script, follow along...
 
 All written instructions are for setting up DECENT Network testnet. This is not the only guide to be followed as I may have missed certain steps. Refer to [Official DECENT Docs](https://github.com/DECENTfoundation/DECENT-Network/wiki/private-testnet)
 

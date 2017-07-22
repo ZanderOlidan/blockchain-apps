@@ -22,7 +22,7 @@ run () {
         exit
     fi
 
-    $decentd
+    $decentd 
 }
 
 $@
