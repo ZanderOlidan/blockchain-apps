@@ -1,3 +1,5 @@
+# DO NOT RUN ANYTHING WITHIN THIS FOLDER. WIP
+
 # Steem Testnet Setup
 
 Build and compile Steem with Testnet variable on.
